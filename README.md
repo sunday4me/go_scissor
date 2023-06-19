@@ -29,5 +29,7 @@ yarn run dev
 To add modal run 
 ```bash
 yarn add svelte-modals
+```
+
 ---
 :zap: Happy Coding!
