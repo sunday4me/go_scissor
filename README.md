@@ -13,16 +13,21 @@ You can name the container anything you want, or not name it all. `--name` flag 
 ## For frontend I use Sveltejs
 
 . Run
-
-npx degit sveltejs/template view
-to create folder name view
-cd to the 
-folder
+```bash
+$ npx degit sveltejs/template view
+```
+## To create folder name view cd to the folder
 
 . Run
+```bash
 yarn install
+```
 then 
+```bash
 yarn run dev
-
+```
+To add modal run 
+```bash
+yarn add svelte-modals
 ---
 :zap: Happy Coding!
