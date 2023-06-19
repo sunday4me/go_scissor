@@ -20,15 +20,15 @@ $ npx degit sveltejs/template view
 
 . Run
 ```bash
-yarn install
+$ yarn install
 ```
 then 
 ```bash
-yarn run dev
+$ yarn run dev
 ```
 To add modal run 
 ```bash
-yarn add svelte-modals
+$ yarn add svelte-modals
 ```
 
 ---
